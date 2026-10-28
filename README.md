@@ -1,251 +1,200 @@
-<!-- ===================================================== -->
-<!--              AFTAB SHAIKH | PROFILE README            -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<!-- FUTURISTIC ANIMATED HEADER -->
+# 👋 Hi, I'm Aftab Shaikh
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:090D1A,35:172554,70:312E81,100:0891B2&height=240&section=header&text=AFTAB%20SHAIKH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=QUALITY%20ENGINEERING%20%7C%20TEST%20AUTOMATION&descSize=17&descAlignY=58&descColor=BAE6FD"
-  width="100%"
-  alt="Aftab Shaikh - Quality Engineering"
->
+## 🎭 QA Automation Engineer
 
-<!-- ANIMATED TYPING -->
-
-<a href="https://github.com/aftabshaikh27">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Playwright+%2B+JavaScript+%F0%9F%8E%AD;Modern+End-to-End+Test+Automation;Manual+Testing+%7C+Quality+Engineering;Building+Reliable+Automation+Frameworks"
-    alt="Animated QA automation introduction"
-  >
-</a>
+### **Playwright • JavaScript • Selenium • Java • Manual Testing**
 
 <br>
 
-<a href="https://github.com/aftabshaikh27?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-</a>
-<a href="https://playwright.dev/">
-  <img src="https://img.shields.io/badge/Primary%20Focus-Playwright-8B5CF6?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-</a>
+<img src="https://img.shields.io/badge/PRIMARY%20FOCUS-PLAYWRIGHT-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" alt="Primary Focus Playwright">
+
+<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Primary Language JavaScript">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aftabshaikh27&style=flat-square&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitors">
+<img src="https://img.shields.io/badge/AUTOMATION-TEST%20ENGINEERING-2563EB?style=for-the-badge" alt="Automation Test Engineering">
+
+<img src="https://img.shields.io/badge/QUALITY-ENGINEERING-7C3AED?style=for-the-badge" alt="Quality Engineering">
 
 </div>
 
 ---
 
-<!-- ABOUT -->
+# 🧑‍💻 About Me
 
-<h2 align="center">⌁ &nbsp; ABOUT ME</h2>
+I'm a **QA Automation-focused engineer** passionate about building reliable, maintainable and scalable software testing solutions.
 
-<div align="center">
+My **primary focus is Playwright with JavaScript**, with a strong interest in modern End-to-End automation, framework architecture, reusable components and reliable test execution.
 
-### QA Automation | Playwright | JavaScript
-
-*Turning testing challenges into reliable, maintainable automation.*
-
-</div>
-
-I'm passionate about **Software Quality Assurance, Manual Testing and Test Automation**.
-
-My primary focus is **Playwright with JavaScript**, with an emphasis on end-to-end testing, reusable automation architecture, clean test design and reliable test execution.
-
-I also explore **Selenium with Java**, testing fundamentals, API testing and CI/CD practices as part of my broader QA engineering journey.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Primary Focus
+Alongside Playwright, I am building knowledge and practical experience in:
 
 - 🎭 Playwright Automation
 - 🟨 JavaScript
-- 🌐 End-to-End Testing
-- 🏗️ Automation Framework Design
-- ✅ Assertions & Test Reliability
+- 🌐 Selenium
+- ☕ Java
+- 🧪 Manual Testing
+- 🔌 API Testing
+- 🔧 Git & GitHub
+- ⚙️ CI/CD
 
-</td>
-<td width="50%" valign="top">
-
-### 🧪 QA Foundation
-
-- 🔍 Manual Testing
-- 📝 Test Case Design
-- 🔄 Regression Testing
-- 🐞 Defect Reporting
-- 📋 Functional Testing
-
-</td>
-</tr>
-</table>
+> **My goal:** Build automation that is clean, maintainable, reliable and useful for real-world QA engineering.
 
 ---
 
-<!-- PRIMARY TECH STACK -->
-
-<h2 align="center">🚀 &nbsp; PRIMARY AUTOMATION STACK</h2>
+# 🚀 My Primary Automation Stack
 
 <div align="center">
 
-<p><strong>01 / PLAYWRIGHT</strong></p>
-
-<a href="https://playwright.dev/">
-  <img src="https://img.shields.io/badge/PLAYWRIGHT-2E2E2E?style=for-the-badge&logo=playwright&logoColor=45BA4B" alt="Playwright">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
-</a>
-
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</a>
-
-<br><br>
-
-<img
-  src="https://skillicons.dev/icons?i=playwright,javascript,nodejs&theme=dark"
-  alt="Playwright, JavaScript and Node.js"
->
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎭
-
-**Playwright**
-
-End-to-End Testing
-
-</td>
-<td align="center" width="33%">
-
-### 🟨
-
-**JavaScript**
-
-Automation Logic
-
-</td>
-<td align="center" width="33%">
-
-### 🏗️
-
-**Frameworks**
-
-Reusable Architecture
-
-</td>
-</tr>
-</table>
+| Priority | Technology | Focus |
+|:---:|---|---|
+| 🥇 | 🎭 **Playwright** | Primary Automation Framework |
+| 🥇 | 🟨 **JavaScript** | Primary Programming Language |
+| 🥈 | 🌐 **Selenium** | Web Automation |
+| 🥈 | ☕ **Java** | Selenium Automation |
+| 🥉 | 🧪 **Manual Testing** | QA Foundation |
+| 4️⃣ | 🔌 **API Testing** | Backend Validation |
+| 5️⃣ | ⚙️ **Git / CI-CD** | Engineering Workflow |
 
 </div>
-
-### Automation Capabilities
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**TEST ENGINEERING**
-
-- End-to-End Testing
-- UI Automation
-- Functional & Regression Testing
-- Cross-Browser Testing
-- Locator Strategies
-- Web Assertions
-
-</td>
-<td width="50%" valign="top">
-
-**FRAMEWORK ENGINEERING**
-
-- Page Object Model (POM)
-- Fixtures & Hooks
-- Reusable Utilities
-- Test Data Management
-- Screenshots & Videos
-- HTML Reports
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- ARCHITECTURE -->
+# 🎭 Playwright
 
-<h2 align="center">🏗️ &nbsp; AUTOMATION FRAMEWORK ARCHITECTURE</h2>
+## ⭐ Primary Automation Technology
 
-<div align="center">
+Playwright is my **main focus for modern web automation**.
 
-*Clean structure. Reusable components. Maintainable tests.*
-
-</div>
+### What I'm focusing on
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│             PLAYWRIGHT AUTOMATION FRAMEWORK          │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ┌────────────────────────────────────────────────┐  │
-│  │                 TEST LAYER                     │  │
-│  │       Login | Dashboard | Checkout | UI         │  │
-│  └───────────────────────┬────────────────────────┘  │
-│                          ▼                           │
-│  ┌────────────────────────────────────────────────┐  │
-│  │               PAGE OBJECT LAYER                │  │
-│  │       LoginPage | DashboardPage | Pages         │  │
-│  └───────────────────────┬────────────────────────┘  │
-│                          ▼                           │
-│  ┌────────────────────────────────────────────────┐  │
-│  │               SHARED COMPONENTS                │  │
-│  │       Fixtures | Helpers | Test Data           │  │
-│  └───────────────────────┬────────────────────────┘  │
-│                          ▼                           │
-│  ┌────────────────────────────────────────────────┐  │
-│  │              PLAYWRIGHT ENGINE                 │  │
-│  │       Browser | Locators | Assertions           │  │
-│  └───────────────────────┬────────────────────────┘  │
-│                          ▼                           │
-│  ┌────────────────────────────────────────────────┐  │
-│  │             REPORTING & DEBUGGING              │  │
-│  │       HTML Report | Screenshots | Videos        │  │
-│  └────────────────────────────────────────────────┘  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+                         PLAYWRIGHT
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+        UI AUTOMATION     E2E TESTING    CROSS BROWSER
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                       FRAMEWORK DESIGN
+                              │
+               ┌──────────────┼──────────────┐
+               │              │              │
+               ▼              ▼              ▼
+             POM          FIXTURES       UTILITIES
+               │              │              │
+               └──────────────┼──────────────┘
+                              ▼
+                      RELIABLE TESTS
 ```
 
-### Recommended Project Structure
+### Playwright Skills
+
+| Area | Skills |
+|---|---|
+| 🎭 Automation | End-to-End, UI Automation |
+| 🌐 Browsers | Chromium, Firefox, WebKit |
+| 🧩 Architecture | Page Object Model |
+| 🧪 Testing | Assertions, Hooks, Fixtures |
+| 🔐 Authentication | Login / Session Handling |
+| 📊 Reporting | HTML Reports |
+| 📸 Debugging | Screenshots, Videos, Traces |
+| ⚡ Execution | Parallel Testing |
+| 🔄 Data | Test Data Management |
+| 🛠️ Utilities | Reusable Helpers |
+
+---
+
+# 🟨 JavaScript
+
+## ⭐ Primary Programming Language
+
+JavaScript is my **primary programming language for Playwright automation**.
+
+### JavaScript Focus
 
 ```text
-Playwright-Practice/
+JavaScript
+│
+├── Variables & Data Types
+├── Functions
+├── Arrays
+├── Objects
+├── ES6+
+├── Destructuring
+├── Modules
+├── Promises
+├── Async / Await
+├── Error Handling
+└── Automation Logic
+```
+
+### Example Playwright Test
+
+```javascript
+import { test, expect } from '@playwright/test';
+
+test.describe('Login Tests', () => {
+
+    test('User should login successfully', async ({ page }) => {
+
+        await page.goto('/login');
+
+        await page
+            .getByLabel('Username')
+            .fill('testuser');
+
+        await page
+            .getByLabel('Password')
+            .fill('password');
+
+        await page
+            .getByRole('button', { name: 'Login' })
+            .click();
+
+        await expect(page)
+            .toHaveURL(/dashboard/);
+
+    });
+
+});
+```
+
+---
+
+# 🏗️ Playwright Framework Architecture
+
+I prefer a **clean and scalable framework structure** instead of putting everything inside test files.
+
+```text
+Playwright-Automation/
 │
 ├── tests/
 │   ├── smoke/
 │   ├── regression/
-│   └── login/
+│   ├── login/
+│   └── dashboard/
 │
 ├── pages/
 │   ├── LoginPage.js
-│   └── DashboardPage.js
+│   ├── DashboardPage.js
+│   └── HomePage.js
 │
 ├── fixtures/
 │   └── testFixtures.js
 │
+├── utils/
+│   ├── helpers.js
+│   └── constants.js
+│
 ├── test-data/
 │   └── testData.js
 │
-├── utils/
-│   └── helpers.js
+├── reports/
 │
 ├── playwright.config.js
 ├── package.json
@@ -253,407 +202,551 @@ Playwright-Practice/
 └── README.md
 ```
 
-<sub>Architecture blueprint for the Playwright practice project. Add files as the framework evolves.</sub>
-
----
-
-<!-- JAVASCRIPT -->
-
-<h2 align="center">🟨 &nbsp; JAVASCRIPT FOR TEST AUTOMATION</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Async%2FAwait-20232A?style=flat-square">
-<img src="https://img.shields.io/badge/Modules-3178C6?style=flat-square">
-<img src="https://img.shields.io/badge/Promises-8B5CF6?style=flat-square">
-
-</div>
-
-```javascript
-import { test, expect } from '@playwright/test';
-
-test.describe('Login Functionality', () => {
-
-    test('should display the login page', async ({ page }) => {
-
-        // Example: configure baseURL in playwright.config.js
-        await page.goto('/login');
-
-        await expect(
-            page.getByRole('heading', { name: /login/i })
-        ).toBeVisible();
-
-    });
-
-});
-```
-
-<sub>Example test pattern. Adapt the URL and locator to match the application under test.</sub>
-
----
-
-<!-- SECONDARY AUTOMATION -->
-
-<h2 align="center">🌐 &nbsp; ADDITIONAL AUTOMATION STACK</h2>
-
-<div align="center">
-
-### Selenium + Java
-
-<a href="https://www.selenium.dev/">
-  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-</a>
-
-<a href="https://dev.java/">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</a>
-
-<br><br>
-
-<img
-  src="https://skillicons.dev/icons?i=selenium,java&theme=dark"
-  alt="Selenium and Java"
->
-
-</div>
-
-| Selenium | Java |
-|---|---|
-| WebDriver | OOP Concepts |
-| Locators & XPath | Classes & Objects |
-| CSS Selectors | Collections |
-| Wait Strategies | Exception Handling |
-| Browser Automation | Framework Design |
-| Page Object Model | Reusable Code |
-
----
-
-<!-- MANUAL TESTING -->
-
-<h2 align="center">🧪 &nbsp; MANUAL TESTING & QUALITY ASSURANCE</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FUNCTIONAL%20TESTING-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/REGRESSION%20TESTING-7C3AED?style=flat-square">
-<img src="https://img.shields.io/badge/SMOKE%20TESTING-0891B2?style=flat-square">
-<img src="https://img.shields.io/badge/EXPLORATORY%20TESTING-0F766E?style=flat-square">
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Test Design
-
-- Requirement Analysis
-- Test Scenarios
-- Test Case Design
-- Positive & Negative Testing
-- Boundary Value Analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🐞 Quality Control
-
-- Functional Testing
-- Regression Testing
-- Smoke & Sanity Testing
-- Exploratory Testing
-- Defect Reporting
-
-</td>
-</tr>
-</table>
-
-> **Quality mindset:** Understand the requirement, identify risks, validate behavior, report defects clearly and automate suitable repeatable scenarios.
-
----
-
-<!-- API AND CI/CD -->
-
-<h2 align="center">⚙️ &nbsp; ENGINEERING TOOLKIT</h2>
-
-<div align="center">
-
-### API Testing
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge" alt="REST API">
-<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-
-<br><br>
-
-### Version Control & CI/CD
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-
-</div>
-
-### Continuous Integration Workflow
+### Framework Flow
 
 ```text
-          CODE PUSH
-              │
-              ▼
-       GITHUB REPOSITORY
-              │
-              ▼
-        CI/CD PIPELINE
-              │
-              ▼
-      INSTALL DEPENDENCIES
-              │
-              ▼
-       RUN AUTOMATED TESTS
-              │
-              ▼
-       GENERATE TEST REPORT
-              │
-              ▼
-       REVIEW TEST RESULTS
+             TEST CASE
+                 │
+                 ▼
+          PAGE OBJECT MODEL
+                 │
+                 ▼
+             FIXTURES
+                 │
+                 ▼
+          HELPER / UTILITY
+                 │
+                 ▼
+            PLAYWRIGHT
+                 │
+                 ▼
+           BROWSER ACTION
+                 │
+                 ▼
+            ASSERTION
+                 │
+                 ▼
+             REPORT
 ```
-
-<sub>Target workflow for CI/CD integration; pipeline setup depends on the project configuration.</sub>
 
 ---
 
-<!-- PROJECTS -->
+# 🌐 Selenium
 
-<h2 align="center">📂 &nbsp; PROJECTS & ENGINEERING</h2>
+## Selenium + Java
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Selenium is my **secondary web automation stack** and an important part of my QA automation learning.
 
-### 🎭 Playwright Automation
+### Selenium Knowledge
 
-**Primary Focus**
+```text
+Selenium WebDriver
+│
+├── Browser Automation
+├── Locators
+├── XPath
+├── CSS Selectors
+├── Explicit Wait
+├── Implicit Wait
+├── Alerts
+├── Frames
+├── Windows & Tabs
+├── Dropdowns
+├── Page Object Model
+└── Cross-Browser Testing
+```
 
-Modern browser automation using JavaScript.
+---
 
-- End-to-End Testing
-- Reusable Page Objects
-- Fixtures & Assertions
-- Test Reporting
-- Cross-Browser Execution
+# ☕ Java
 
-<a href="https://github.com/aftabshaikh27?tab=repositories">
-  Explore repositories →
-</a>
+Java is used as the programming foundation for my Selenium automation track.
 
-</td>
-<td width="50%" valign="top">
+### Java Concepts
 
-### 🌐 Selenium Automation
+```text
+Java
+│
+├── OOP
+├── Classes & Objects
+├── Methods
+├── Inheritance
+├── Encapsulation
+├── Polymorphism
+├── Abstraction
+├── Collections
+├── Exception Handling
+├── Interfaces
+└── Framework Design
+```
 
-**Additional Stack**
+---
 
-Browser automation using Selenium and Java.
+# 🧪 Manual Testing
 
-- WebDriver
-- Locators & Waits
-- Page Object Model
-- Java Fundamentals
-- Browser Workflows
+Strong manual testing fundamentals are essential for good automation.
 
-<a href="https://github.com/aftabshaikh27?tab=repositories">
-  Explore repositories →
-</a>
+### Testing Areas
 
-</td>
-</tr>
-</table>
+| Testing Area | Focus |
+|---|---|
+| 🔍 Requirement Analysis | Understanding requirements |
+| 📝 Test Case Design | Creating effective test cases |
+| 🧪 Functional Testing | Validating functionality |
+| 🔄 Regression Testing | Validating existing features |
+| 💨 Smoke Testing | Critical functionality validation |
+| 🔎 Sanity Testing | Quick change validation |
+| 🧠 Exploratory Testing | Finding unexpected behavior |
+| 🖥️ UI Testing | Validating UI workflows |
+| 🐞 Defect Reporting | Clear & reproducible bugs |
+| 📋 Test Execution | Test execution & analysis |
 
-<table>
-<tr>
-<td width="100%" valign="top">
+---
 
-### 🔌 API Testing
+# 🔌 API Testing
 
-**Separate Project Track**
+API testing is part of my broader QA automation roadmap.
 
-API testing and backend validation can be developed independently from the Playwright UI automation project.
+### API Knowledge
 
-- REST API Fundamentals
-- HTTP Methods & Status Codes
-- Request & Response Validation
+```text
+                   API TESTING
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+          ▼             ▼             ▼
+        GET           POST           PUT
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                        ▼
+                    PATCH / DELETE
+                        │
+                        ▼
+                Request Validation
+                        │
+                        ▼
+                Response Validation
+                        │
+                        ▼
+                   JSON / Status
+```
+
+### Focus Areas
+
+- HTTP Methods
+- Status Codes
+- Headers
+- Query Parameters
+- Path Parameters
 - JSON
+- Request Validation
+- Response Validation
+- Authentication
+- Negative Testing
 - Postman
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- DEVELOPMENT ROADMAP -->
+# ⚙️ Git & CI/CD
 
-<h2 align="center">🧭 &nbsp; ENGINEERING ROADMAP</h2>
+Modern automation should be part of the development lifecycle.
 
-<div align="center">
+### CI/CD Flow
 
 ```text
-     ┌────────────────────────────┐
-     │    PLAYWRIGHT + JAVASCRIPT │
-     │       PRIMARY FOCUS        │
-     └─────────────┬──────────────┘
-                   │
-                   ▼
-     ┌────────────────────────────┐
-     │    FRAMEWORK ARCHITECTURE  │
-     │     POM • FIXTURES • DATA  │
-     └─────────────┬──────────────┘
-                   │
-                   ▼
-     ┌────────────────────────────┐
-     │      SELENIUM + JAVA       │
-     │    ADDITIONAL AUTOMATION   │
-     └─────────────┬──────────────┘
-                   │
-                   ▼
-     ┌────────────────────────────┐
-     │       MANUAL TESTING       │
-     │    QUALITY FUNDAMENTALS    │
-     └─────────────┬──────────────┘
-                   │
-                   ▼
-     ┌────────────────────────────┐
-     │     API TESTING + CI/CD    │
-     │     CONTINUOUS LEARNING    │
-     └─────────────┬──────────────┘
-                   │
-                   ▼
-     ┌────────────────────────────┐
-     │     QUALITY ENGINEERING    │
-     └────────────────────────────┘
+Developer
+    │
+    ▼
+Git Commit
+    │
+    ▼
+GitHub
+    │
+    ▼
+CI Pipeline
+    │
+    ▼
+Install Dependencies
+    │
+    ▼
+Run Playwright Tests
+    │
+    ▼
+Generate Report
+    │
+    ▼
+Analyze Results
+    │
+    ▼
+Quality Gate
 ```
 
+---
+
+# 🛠️ Technology Stack
+
+## 🎭 Primary
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=45BA4B" alt="Playwright">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js">
+
+</div>
+
+## 🌐 Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff" alt="Selenium">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java">
+
+</div>
+
+## 🧪 Testing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Manual%20Testing-2563EB?style=for-the-badge" alt="Manual Testing">
+
+<img src="https://img.shields.io/badge/Functional%20Testing-2563EB?style=for-the-badge" alt="Functional Testing">
+
+<img src="https://img.shields.io/badge/Regression%20Testing-7C3AED?style=for-the-badge" alt="Regression Testing">
+
+<img src="https://img.shields.io/badge/Smoke%20Testing-0891B2?style=for-the-badge" alt="Smoke Testing">
+
+</div>
+
+## 🔌 API
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman">
+
+<img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge" alt="REST API">
+
+<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=ffffff" alt="JSON">
+
+</div>
+
+## 🔧 Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="GitHub Actions">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code">
+
 </div>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+# 📂 Featured Projects
 
-<h2 align="center">📊 &nbsp; GITHUB ANALYTICS</h2>
+## 🎭 Playwright E2E Automation Framework
+
+**Primary Project**
+
+**Tech:** `Playwright` `JavaScript` `Node.js`
+
+### Coverage
+
+- End-to-End Testing
+- Page Object Model
+- Fixtures
+- Assertions
+- Test Data
+- Authentication
+- Cross-Browser Testing
+- Screenshots
+- Videos
+- HTML Reports
+- Parallel Execution
+- Reusable Utilities
+
+---
+
+## 🌐 Selenium Automation Framework
+
+**Secondary Project**
+
+**Tech:** `Selenium` `Java`
+
+### Coverage
+
+- WebDriver
+- Locators
+- XPath
+- CSS Selectors
+- Wait Strategies
+- Page Object Model
+- Browser Automation
+- Reusable Utilities
+
+---
+
+## 🔌 API Testing Project
+
+**Tech:** `Postman` `REST API` `JSON`
+
+### Coverage
+
+- GET
+- POST
+- PUT
+- PATCH
+- DELETE
+- Status Codes
+- Request Validation
+- Response Validation
+- Authentication
+- Negative Testing
+
+---
+
+# 🧭 QA Automation Roadmap
+
+```text
+                        ┌─────────────────────┐
+                        │    QA ENGINEERING   │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │  MANUAL TESTING     │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │     JAVASCRIPT      │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │       PLAYWRIGHT 🎭         │
+                    │       PRIMARY FOCUS         │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │    FRAMEWORK ENGINEERING    │
+                    │   POM • FIXTURES • UTILS    │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │      SELENIUM + JAVA        │
+                    │    ADDITIONAL AUTOMATION    │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │       API TESTING           │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │          CI / CD            │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │   QUALITY ENGINEERING 🚀    │
+                    └─────────────────────────────┘
+```
+
+---
+
+# 🎯 Current Learning Focus
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=aftabshaikh27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9"
-  height="175"
-  alt="GitHub statistics"
-/>
+| 🎭 PLAYWRIGHT | 🟨 JAVASCRIPT | 🌐 SELENIUM |
+|:---:|:---:|:---:|
+| E2E | ES6+ | WebDriver |
+| POM | Async/Await | Locators |
+| Fixtures | Promises | XPath |
+| Assertions | Modules | Waits |
+| Reporting | OOP Concepts | POM |
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=aftabshaikh27&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
-  height="175"
-  alt="GitHub contribution streak"
-/>
+</div>
+
+---
+
+# 🧠 QA Engineering Mindset
+
+```text
+       UNDERSTAND
+           │
+           ▼
+      REQUIREMENTS
+           │
+           ▼
+      IDENTIFY RISKS
+           │
+           ▼
+       DESIGN TESTS
+           │
+           ▼
+     MANUAL VALIDATION
+           │
+           ▼
+     AUTOMATE REPEATABLE
+          FLOWS
+           │
+           ▼
+      RUN REGRESSION
+           │
+           ▼
+      ANALYZE RESULTS
+           │
+           ▼
+      REPORT DEFECTS
+           │
+           ▼
+     IMPROVE CONTINUOUSLY
+```
+
+---
+
+# 📚 Continuous Learning
+
+```javascript
+const qaJourney = {
+
+    primaryAutomation: "Playwright",
+
+    primaryLanguage: "JavaScript",
+
+    automation: [
+        "Playwright",
+        "Selenium"
+    ],
+
+    testing: [
+        "Manual Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "Smoke Testing",
+        "Exploratory Testing"
+    ],
+
+    api: [
+        "REST API",
+        "Postman",
+        "JSON"
+    ],
+
+    engineering: [
+        "Page Object Model",
+        "Fixtures",
+        "Reusable Utilities",
+        "Git",
+        "GitHub",
+        "CI/CD"
+    ],
+
+    mindset:
+        "Learn → Practice → Automate → Improve"
+
+};
+
+console.log(
+    "Building better software through quality 🚀"
+);
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-aftabshaikh27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabshaikh27&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-  height="150"
-  alt="Most-used languages in public repositories"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aftabshaikh27&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
+<a href="https://github.com/aftabshaikh27?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW-MY%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
+</a>
 
 </div>
 
 ---
 
-<!-- PROFESSIONAL PRINCIPLES -->
+# 🚀 Career Direction
 
-<h2 align="center">💡 &nbsp; ENGINEERING PRINCIPLES</h2>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎯
-
-**Reliability**
-
-Consistent test results
-
-</td>
-<td align="center" width="25%">
-
-### 🧩
-
-**Reusability**
-
-Reusable components
-
-</td>
-<td align="center" width="25%">
-
-### 🏗️
-
-**Maintainability**
-
-Readable architecture
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-
-**Improvement**
-
-Continuous learning
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> *Test with purpose. Automate with intelligence. Build quality into every release.*
-
-</div>
+```text
+                         QA ENGINEER
+                              │
+                              ▼
+                       MANUAL TESTING
+                              │
+                              ▼
+                       TEST AUTOMATION
+                              │
+                ┌─────────────┴─────────────┐
+                │                           │
+                ▼                           ▼
+          PLAYWRIGHT 🎭               SELENIUM 🌐
+                │                           │
+           JAVASCRIPT                     JAVA
+                │                           │
+                └─────────────┬─────────────┘
+                              │
+                              ▼
+                     FRAMEWORK DESIGN
+                              │
+                              ▼
+                        API TESTING
+                              │
+                              ▼
+                           CI / CD
+                              │
+                              ▼
+                    QA AUTOMATION ENGINEER
+                              │
+                              ▼
+                    QUALITY ENGINEERING
+```
 
 ---
 
-<!-- CONNECT -->
-
-<h2 align="center">🤝 &nbsp; CONNECT WITH ME</h2>
+# 🤝 Let's Connect
 
 <div align="center">
+
+### Interested in QA Automation, Playwright, Software Testing and Quality Engineering?
+
+<br>
 
 <a href="https://github.com/aftabshaikh27">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
 </a>
 
 <br><br>
 
-**QA Automation · Playwright · JavaScript · Selenium · Software Quality**
+**🎭 Playwright • 🟨 JavaScript • 🌐 Selenium • ☕ Java • 🧪 QA**
 
 <br>
 
-Let's connect, learn and build better software together.
+*Build Quality. Automate Intelligently. Improve Continuously.*
 
-<br>
+</div>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:090D1A&height=120&section=footer"
-  width="100%"
-  alt="Decorative footer"
->
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
